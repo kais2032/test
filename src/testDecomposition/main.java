@@ -6,7 +6,6 @@ public class main {
 		Personne p=new Personne("kais",2);
 		Etudiant e=new Etudiant("kais",2);
 		Etudiant e=new Etudiant("kais",2);
-		Etudiant e=new Etudiant("kais",2);
 Etudiant e=new Etudiant("kais",2);
 	}
 }
